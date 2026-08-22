@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mahek721.github.io/resources-xsez6p/sitemap.xml
